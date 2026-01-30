@@ -1,4 +1,4 @@
-# 🎓 Portafolio - Estefania ROdirguez
+# 🎓 Portafolio - Estefania Rodriguez
 
 **Proyecto final del módulo de Introducción al Desarrollo Web - Desafío Latam**
 
